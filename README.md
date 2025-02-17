@@ -29,8 +29,8 @@
 ```javascript
 const skills = {
     backend: {
-        java: [ 'Java EE', 'Spring', 'Spring Boot'],
-        js / ts : ['Node.js', 'Express.js', 'NestJS', 'Next.js']
+        java: ['Java EE', 'Spring', 'Spring Boot'],
+        js/ts: ['Node.js', 'Express.js', 'NestJS', 'Next.js']
     },
     frontend: {
         frameworks: ['React.js', 'Angular'],
@@ -39,6 +39,15 @@ const skills = {
     databases: {
         sql: ['MySQL', 'PostgreSQL', 'Oracle'],
         nosql: ['MongoDB', 'Firebase Firestore']
+    },
+    tools: {
+        versionControl: ['Git', 'GitHub'],
+        containerization: ['Docker'],
+        cloud: ['AWS', 'Firebase']
+    },
+    architecture: {
+        patterns: ['MVC', 'REST API', 'Microservices'],
+        principles: ['SOLID', 'DRY', 'Clean Code']
     }
 }
 ```

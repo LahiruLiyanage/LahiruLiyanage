@@ -45,7 +45,7 @@ After several years as a **Project Architect**, I decided to follow my lifelong 
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LahiruLiyanage&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yLahiruLiyanage&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruLiyanage&layout=compact&theme=tokyonight)  
 
 ---
 

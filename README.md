@@ -1,5 +1,5 @@
-# 👋 Hi, I'm [Your Name]  
-🚀 Full-Stack Associate Software Developer | 🎯 Ex-Architect | 💡 Passionate Problem Solver  
+# 👋 Hi, I'm Lahiru Liyanage  
+🚀 Full-Stack Associate Software Developer | 💡 Passionate Problem Solver  | 🏰 Architectural Designer
 
 ## 🏗️ My Journey  
 Originally from an **architectural background**, I hold a **Bachelor's degree** from the **University of Moratuwa, Sri Lanka** and an **MSc in Project Management** from **Solent University, UK**.  

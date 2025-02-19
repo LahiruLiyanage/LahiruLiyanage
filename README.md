@@ -89,7 +89,7 @@ const skills = {
 [//]: # ([![GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com?user=LahiruLiyanage&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&#41;]&#40;https://git.io/streak-stats&#41;)
 
 <!-- Activity Graph -->
-[![Lahiru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LahiruLiyanage&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Lahiru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LahiruLiyanage&theme=tokyo-night)](https://github.com/LahiruLiyanage)
 
 <!-- Top Languages Card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruLiyanage&layout=compact&theme=aura&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)

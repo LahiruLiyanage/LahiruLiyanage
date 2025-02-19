@@ -82,7 +82,7 @@ const skills = {
 <div align="center">
 
 <!-- GitHub Stats Card with custom theme -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LahiruLiyanage&show_icons=true&theme=aura&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LahiruLiyanage&show_icons=true&theme=aura&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/LahiruLiyanage)
 
 [//]: # (<!-- GitHub Streak Stats -->)
 
@@ -92,7 +92,7 @@ const skills = {
 [![Lahiru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LahiruLiyanage&theme=tokyo-night)](https://github.com/LahiruLiyanage)
 
 <!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruLiyanage&layout=compact&theme=aura&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruLiyanage&layout=compact&theme=aura&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)](https://github.com/LahiruLiyanage)
 
 <!-- Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=LahiruLiyanage&color=blue&style=flat-square)

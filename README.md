@@ -1,114 +1,128 @@
 <div align="center">
 
 # Lahiru Liyanage
-### From Building Structures to Building Software 🏗️ → 💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/liyanage-lahiru)
+[//]: # (<img src="https://github.com/LahiruLiyanage/LahiruLiyanage/assets/yourAssetFolderID/header.png" alt="Lahiru Liyanage - Full Stack Developer" width="100%">)
+
+[![Website](https://img.shields.io/badge/Website-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lahiruliyanage.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lahiruliyanage)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LahiruLiyanage)
 
-</div>
-
-## About Me 👨‍💻
-
-<div align="center">
-
-#### 👋 Hey there! Plot twist: I used to design buildings, but code was my true love all along! Now I'm living my dream as a Full-Stack Software Developer, bringing a blueprint of innovation to every project. Think of me as an architect who traded concrete for code – same eye for design, just with fewer hard hats! 🏗️ → 💻
-#### My secret sauce? I bring an architect's problem-solving superpowers to the tech world. Whether I'm crafting sleek UIs or building robust backends, I'm all about creating digital experiences that are both beautiful AND bulletproof. Picture this: The precision of an architect meets the creativity of a developer. That's me – building digital solutions that stand as tall as my former designs! 🏘
+## Architecture to Code: Building Digital Solutions
 
 </div>
 
-####
-- 🎓 MSc in Project Management (Solent University, UK)
-- 🏛️ Bachelor's from University of Moratuwa, Sri Lanka
-- 💻 CMJD Professional Certificate from IJSE
-- 💼 Currently: Full-Stack Developer
-- 🌱 Previously: Project Architect
+> *From designing buildings to crafting elegant code — bringing an architect's precision to software development*
 
-## Tech Stack 🛠️
+I'm a **Full Stack Developer** with a unique background in architecture and project management. This dual expertise allows me to approach software development with both technical precision and creative vision, creating digital experiences that are functional, scalable, and beautifully designed.
+
+### 🔹 Professional Journey
+
+- **Current:** Full Stack Developer focused on creating robust web applications
+- **Previously:** Project Architect designing and managing construction projects
+- **Always:** Problem-solver passionate about elegant, efficient solutions
+
+### 🔹 Education & Certification
+
+- 🎓 MSc in Project Management — Solent University, UK
+- 🏛️ B.Sc in Architecture — University of Moratuwa, Sri Lanka
+- 💻 CMJD Professional Certificate — IJSE
+- 💼 Certificate in Jira Training — ICITB
+
+
+
+## Technology Expertise
 
 ```javascript
 const skills = {
     backend: {
-        java: ['Java EE', 'Spring', 'Spring Boot'],
-        js/ts: ['Node.js', 'Express.js', 'NestJS', 'Next.js']
+        Languages: ['Java', 'JavaScript', 'TypeScript', 'Python'],
+        java: ['Spring Boot', 'Spring', 'Java EE'],
+        js: ['Node.js', 'Express', 'NestJS'],
     },
     frontend: {
-        frameworks: ['React.js', 'Angular'],
-        styling: ['Material UI', 'Bootstrap', 'Tailwind CSS']
+        core: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3', 'SASS'],
+        frameworks: ['React.js', 'Angular', 'Next.js'],
+        styling: ['Tailwind CSS', 'Material UI', 'Bootstrap'],
     },
-    databases: {
-        sql: ['MySQL', 'PostgreSQL', 'Oracle'],
-        nosql: ['MongoDB', 'Firebase Firestore']
-    },
-    tools: {
-        versionControl: ['Git', 'GitHub'],
-        containerization: ['Docker'],
-        cloud: ['AWS', 'Firebase']
-    },
-    architecture: {
-        patterns: ['MVC', 'REST API', 'Microservices'],
-        principles: ['SOLID', 'DRY', 'Clean Code']
-    }
-}
+    database: ['PostgreSQL', 'MySQL', 'MongoDB', 'Firebase'],
+    devOps: ['Docker', 'Git', 'GitHub Actions', 'AWS'],
+    architecture: ['Microservices', 'REST API', 'MVC', 'SOLID'],
+    tools: ['Figma', 'VS Code', 'IntelliJ IDEA', 'Postman', 'Mockoon']
+};
 ```
 
-## Featured Projects 🚀
+[//]: # (## Featured Projects)
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>ShadowCrypt</h3>
-      <p>🔐 File Encryption Tool</p>
-      <p><em>Java • JavaFX • Cryptography</em></p>
-      <a href="https://github.com/LahiruLiyanage/ShadowCrypt">View Project →</a>
-    </td>
-    <td align="center" width="33%">
-      <h3>NextCommerce</h3>
-      <p>🛍️ Modern E-commerce Platform</p>
-      <p><em>Next.js • React • Tailwind</em></p>
-      <a href="https://github.com/LahiruLiyanage/NextCommerce">View Project →</a>
-    </td>
-    <td align="center" width="33%">
-      <h3>WeaveBrowse</h3>
-      <p>🌐 Custom Web Browser</p>
-      <p><em>JavaFX • HTTP Protocol</em></p>
-      <a href="https://github.com/LahiruLiyanage/WeaveBrowse">View Project →</a>
-    </td>
-  </tr>
-</table>
+[//]: # ()
+[//]: # (<table>)
 
-## GitHub Analytics & Statistics 📊
+[//]: # (  <tr>)
+
+[//]: # (    <td align="center" width="33%">)
+
+[//]: # (      <h3>ShadowCrypt</h3>)
+
+[//]: # (      <p>🔐 Secure file encryption application with intuitive UI for protecting sensitive data</p>)
+
+[//]: # (      <p><em>Java • JavaFX • Encryption Algorithms</em></p>)
+
+[//]: # (      <a href="https://github.com/LahiruLiyanage/ShadowCrypt">View Project →</a>)
+
+[//]: # (    </td>)
+
+[//]: # (    <td align="center" width="33%">)
+
+[//]: # (      <h3>NextCommerce</h3>)
+
+[//]: # (      <p>🛍️ Modern e-commerce platform with seamless payment integration and responsive design</p>)
+
+[//]: # (      <p><em>Next.js • React • Tailwind CSS</em></p>)
+
+[//]: # (      <a href="https://github.com/LahiruLiyanage/NextCommerce">View Project →</a>)
+
+[//]: # (    </td>)
+
+[//]: # (    <td align="center" width="33%">)
+
+[//]: # (      <h3>WeaveBrowse</h3>)
+
+[//]: # (      <p>🌐 Custom web browser built from scratch with focus on privacy and performance</p>)
+
+[//]: # (      <p><em>JavaFX • HTTP Protocol • WebKit</em></p>)
+
+[//]: # (      <a href="https://github.com/LahiruLiyanage/WeaveBrowse">View Project →</a>)
+
+[//]: # (    </td>)
+
+[//]: # (  </tr>)
+
+[//]: # (</table>)
+
+## GitHub Analytics
 
 <div align="center">
-
-<!-- GitHub Stats Card with custom theme -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LahiruLiyanage&show_icons=true&theme=aura&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/LahiruLiyanage)
-
-[//]: # (<!-- GitHub Streak Stats -->)
-
-[//]: # ([![GitHub Streak]&#40;https://github-readme-streak-stats.herokuapp.com?user=LahiruLiyanage&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&#41;]&#40;https://git.io/streak-stats&#41;)
-
-<!-- Activity Graph -->
-[![Lahiru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LahiruLiyanage&theme=tokyo-night)](https://github.com/LahiruLiyanage)
-
-<!-- Top Languages Card -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruLiyanage&layout=compact&theme=aura&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)](https://github.com/LahiruLiyanage)
-
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=LahiruLiyanage&color=blue&style=flat-square)
-
-<!-- Additional Stats Badges -->
-![GitHub followers](https://img.shields.io/github/followers/LahiruLiyanage?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/LahiruLiyanage?style=social)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=LahiruLiyanage&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="GitHub Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruLiyanage&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" alt="Top Languages" height="170px" />
 </div>
 
-## Let's Connect! 🤝
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LahiruLiyanage&theme=react-dark&hide_border=true" width="95%" alt="Activity Graph">
+</div>
 
-I'm always interested in connecting with fellow developers and discussing innovative solutions. Whether you're curious about my architectural background or want to collaborate on a project, feel free to reach out!
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LahiruLiyanage&color=0078D7&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/LahiruLiyanage?style=social" alt="GitHub Followers" />
+</div>
+
+## Let's Connect
+
+I'm always open to discussing new projects, innovative ideas, or potential collaborations. Feel free to reach out through any of my social platforms or via my website.
 
 <div align="center">
 
-### "Building bridges between architecture and code, one commit at a time." 🌉
+### "Architecting digital experiences with code, design, and vision" 🏗️→💻
+
+<a href="https://www.lahiruliyanage.com/contact"><img src="https://img.shields.io/badge/Contact_Me-0078D7?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Contact Me"></a>
 
 </div>

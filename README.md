@@ -1,14 +1,22 @@
 <div align="center">
 
-# Lahiru Liyanage
+<div align="center">
+  <h1>👋 Hi, I'm Lahiru Liyanage</h1>
+  <h3>Architecting Digital Solutions with Precision & Creativity</h3>
+  <p><em>Full Stack Developer with an Architect's Eye for Detail</em></p>
+</div>
 
 [//]: # (<img src="https://github.com/LahiruLiyanage/LahiruLiyanage/assets/yourAssetFolderID/header.png" alt="Lahiru Liyanage - Full Stack Developer" width="100%">)
 
-[![Website](https://img.shields.io/badge/Website-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lahiruliyanage.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lahiruliyanage)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LahiruLiyanage)
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <a href="https://www.lahiruliyanage.com/"><img src="https://img.shields.io/badge/Website-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/lahiruliyanage"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/LahiruLiyanage"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</div>
 
-## Architecture to Code: Building Digital Solutions
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Former+Project+Architect;Problem+Solver;Digital+Solution+Expert" alt="Typing SVG" />
+
+[//]: # (### Architecture to Code: Building Digital Solutions)
 
 </div>
 

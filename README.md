@@ -2,7 +2,10 @@
 
 <div align="center">
   <h1>👋 Hi, I'm Lahiru Liyanage</h1>
+
   <h3>Architecting Digital Solutions with Precision & Creativity</h3>
+
+[//]: # (  <h2>From Building Structures to Building Software </h2>)
   <p><em>Full Stack Developer with an Architect's Eye for Detail</em></p>
 </div>
 

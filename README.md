@@ -42,7 +42,7 @@ experiences that are functional, scalable, and beautifully designed.
 - 💻 CMJD Professional Certificate — IJSE
 - 💼 Certificate in Jira Training — ICITB
 
-## Technology Expertise
+## 💻 Technology Expertise
 
 [//]: # (```javascript)
 
@@ -96,21 +96,12 @@ experiences that are functional, scalable, and beautifully designed.
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-        <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+        <img src="https://img.shields.io/badge/FireBase Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
       </td>
     </tr>
     <tr>
       <td valign="top">
-        <h3>Design & UI:</h3>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-        <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-      </td>
-      <td valign="top">
-        <h3>Frameworks/Libraries:</h3>
+        <h3>Frameworks/ Libraries:</h3>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
         <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
@@ -120,6 +111,15 @@ experiences that are functional, scalable, and beautifully designed.
         <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
         <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
         <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+      </td>
+      <td valign="top">
+        <h3>Design & UI:</h3>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+        <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
       </td>
     </tr>
     <tr>
@@ -135,6 +135,7 @@ experiences that are functional, scalable, and beautifully designed.
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
         <img src="https://img.shields.io/badge/Mockoon-4D4D4D?style=for-the-badge&logo=mockoon&logoColor=white">
         <img src="https://img.shields.io/badge/SceneBuilder-41BDF5?style=for-the-badge&logo=scene&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />&nbsp;
       </td>
     </tr>
   </table>

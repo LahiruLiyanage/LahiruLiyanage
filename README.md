@@ -3,7 +3,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Lahiru Liyanage</h1>
 
-  <h3>Architecting Digital Solutions with Precision & Creativity</h3>
+<h3>Architecting Digital Solutions with Precision & Creativity</h3>
 
 [//]: # (  <h2>From Building Structures to Building Software </h2>)
   <p><em>Full Stack Developer with an Architect's Eye for Detail</em></p>
@@ -25,7 +25,9 @@
 
 > *From designing buildings to crafting elegant code — bringing an architect's precision to software development*
 
-I'm a **Full Stack Developer** with a unique background in architecture and project management. This dual expertise allows me to approach software development with both technical precision and creative vision, creating digital experiences that are functional, scalable, and beautifully designed.
+I'm a **Full Stack Developer** with a unique background in architecture and project management. This dual expertise
+allows me to approach software development with both technical precision and creative vision, creating digital
+experiences that are functional, scalable, and beautifully designed.
 
 ### 🔹 Professional Journey
 
@@ -40,32 +42,86 @@ I'm a **Full Stack Developer** with a unique background in architecture and proj
 - 💻 CMJD Professional Certificate — IJSE
 - 💼 Certificate in Jira Training — ICITB
 
-
-
 ## Technology Expertise
 
-```javascript
-const skills = {
-    backend: {
-        Languages: ['Java', 'JavaScript', 'TypeScript', 'Python'],
-        java: ['Spring Boot', 'Spring', 'Java EE'],
-        js: ['Node.js', 'Express', 'NestJS'],
-    },
-    frontend: {
-        core: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3', 'SASS'],
-        frameworks: ['React.js', 'Angular', 'Next.js'],
-        styling: ['Tailwind CSS', 'Material UI', 'Bootstrap'],
-    },
-    database: ['PostgreSQL', 'MySQL', 'MongoDB', 'Firebase'],
-    devOps: ['Docker', 'Git', 'GitHub Actions', 'AWS'],
-    architecture: ['Microservices', 'REST API', 'MVC', 'SOLID'],
-    tools: ['Figma', 'VS Code', 'IntelliJ IDEA', 'Postman', 'Mockoon']
-};
-```
+[//]: # (```javascript)
+
+[//]: # (const skills = {)
+
+[//]: # (    backend: {)
+
+[//]: # (        Languages: ['Java', 'JavaScript', 'TypeScript', 'Python'],)
+
+[//]: # (        java: ['Spring Boot', 'Spring', 'Java EE'],)
+
+[//]: # (        js: ['Node.js', 'Express', 'NestJS'],)
+
+[//]: # (    },)
+
+[//]: # (    frontend: {)
+
+[//]: # (        core: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3', 'SASS'],)
+
+[//]: # (        frameworks: ['React.js', 'Angular', 'Next.js'],)
+
+[//]: # (        styling: ['Tailwind CSS', 'Material UI', 'Bootstrap'],)
+
+[//]: # (    },)
+
+[//]: # (    database: ['PostgreSQL', 'MySQL', 'MongoDB', 'Firebase'],)
+
+[//]: # (    devOps: ['Docker', 'Git', 'GitHub Actions', 'AWS'],)
+
+[//]: # (    architecture: ['Microservices', 'REST API', 'MVC', 'SOLID'],)
+
+[//]: # (    tools: ['Figma', 'VS Code', 'IntelliJ IDEA', 'Postman', 'Mockoon'])
+
+[//]: # (};)
+
+[//]: # (```)
+
+<div>
+  <h3>Backend : </h3>
+    <div align="center">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    </div>
+  <h3>Frontend: </h3>
+    <div align="center">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+      <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    </div>
+  <h3>Database & DevOps: </h3>
+    <div align="center">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+    </div>
+</div>
+
+[//]: # (      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">)
 
 [//]: # (## Featured Projects)
 
 [//]: # ()
+
 [//]: # (<table>)
 
 [//]: # (  <tr>)
@@ -128,7 +184,8 @@ const skills = {
 
 ## Let's Connect
 
-I'm always open to discussing new projects, innovative ideas, or potential collaborations. Feel free to reach out through any of my social platforms or via my website.
+I'm always open to discussing new projects, innovative ideas, or potential collaborations. Feel free to reach out
+through any of my social platforms or via my website.
 
 <div align="center">
 

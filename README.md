@@ -22,8 +22,11 @@
 [//]: # (### Architecture to Code: Building Digital Solutions)
 
 </div>
+<div align="center">
 
 > *From designing buildings to crafting elegant code — bringing an architect's precision to software development*
+
+</div>
 
 I'm a **Full Stack Developer** with a unique background in architecture and project management. This dual expertise
 allows me to approach software development with both technical precision and creative vision, creating digital

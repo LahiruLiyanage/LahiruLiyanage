@@ -47,42 +47,6 @@ experiences that are functional, scalable, and beautifully designed.
 
 ## 💻 Technology Expertise
 
-[//]: # (```javascript)
-
-[//]: # (const skills = {)
-
-[//]: # (    backend: {)
-
-[//]: # (        Languages: ['Java', 'JavaScript', 'TypeScript', 'Python'],)
-
-[//]: # (        java: ['Spring Boot', 'Spring', 'Java EE'],)
-
-[//]: # (        js: ['Node.js', 'Express', 'NestJS'],)
-
-[//]: # (    },)
-
-[//]: # (    frontend: {)
-
-[//]: # (        core: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3', 'SASS'],)
-
-[//]: # (        frameworks: ['React.js', 'Angular', 'Next.js'],)
-
-[//]: # (        styling: ['Tailwind CSS', 'Material UI', 'Bootstrap'],)
-
-[//]: # (    },)
-
-[//]: # (    database: ['PostgreSQL', 'MySQL', 'MongoDB', 'Firebase'],)
-
-[//]: # (    devOps: ['Docker', 'Git', 'GitHub Actions', 'AWS'],)
-
-[//]: # (    architecture: ['Microservices', 'REST API', 'MVC', 'SOLID'],)
-
-[//]: # (    tools: ['Figma', 'VS Code', 'IntelliJ IDEA', 'Postman', 'Mockoon'])
-
-[//]: # (};)
-
-[//]: # (```)
-
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
@@ -217,8 +181,10 @@ through any of my social platforms or via my website.
 
 <div align="center">
 
-### "Architecting digital experiences with code, design, and vision" 🏗️→💻
+### "Architecting digital experiences with code, design, and vision" 
 
-<a href="https://www.lahiruliyanage.com/contact"><img src="https://img.shields.io/badge/Contact_Me-0078D7?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Contact Me"></a>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="60" height="60" />
+
+<a href="https://www.lahiruliyanage.com/contact"><img src="https://img.shields.io/badge/Let's_Connect-0078D7?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Contact Me"></a>
 
 </div>

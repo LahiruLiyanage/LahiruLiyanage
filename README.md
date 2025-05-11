@@ -55,7 +55,6 @@ experiences that are functional, scalable, and beautifully designed.
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       </td>
       <td valign="top" width="50%">
@@ -108,56 +107,6 @@ experiences that are functional, scalable, and beautifully designed.
   </table>
 </div>
 
-[//]: # (      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">)
-
-[//]: # (## Featured Projects)
-
-[//]: # ()
-
-[//]: # (<table>)
-
-[//]: # (  <tr>)
-
-[//]: # (    <td align="center" width="33%">)
-
-[//]: # (      <h3>ShadowCrypt</h3>)
-
-[//]: # (      <p>🔐 Secure file encryption application with intuitive UI for protecting sensitive data</p>)
-
-[//]: # (      <p><em>Java • JavaFX • Encryption Algorithms</em></p>)
-
-[//]: # (      <a href="https://github.com/LahiruLiyanage/ShadowCrypt">View Project →</a>)
-
-[//]: # (    </td>)
-
-[//]: # (    <td align="center" width="33%">)
-
-[//]: # (      <h3>NextCommerce</h3>)
-
-[//]: # (      <p>🛍️ Modern e-commerce platform with seamless payment integration and responsive design</p>)
-
-[//]: # (      <p><em>Next.js • React • Tailwind CSS</em></p>)
-
-[//]: # (      <a href="https://github.com/LahiruLiyanage/NextCommerce">View Project →</a>)
-
-[//]: # (    </td>)
-
-[//]: # (    <td align="center" width="33%">)
-
-[//]: # (      <h3>WeaveBrowse</h3>)
-
-[//]: # (      <p>🌐 Custom web browser built from scratch with focus on privacy and performance</p>)
-
-[//]: # (      <p><em>JavaFX • HTTP Protocol • WebKit</em></p>)
-
-[//]: # (      <a href="https://github.com/LahiruLiyanage/WeaveBrowse">View Project →</a>)
-
-[//]: # (    </td>)
-
-[//]: # (  </tr>)
-
-[//]: # (</table>)
-
 ## GitHub Analytics
 
 <div align="center">
@@ -183,7 +132,7 @@ through any of my social platforms or via my website.
 
 ### "Architecting digital experiences with code, design, and vision" 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="60" height="60" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="50" height="50" />
 
 <a href="https://www.lahiruliyanage.com/contact"><img src="https://img.shields.io/badge/Let's_Connect-0078D7?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Contact Me"></a>
 

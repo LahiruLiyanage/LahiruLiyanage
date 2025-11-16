@@ -40,6 +40,7 @@ experiences that are functional, scalable, and beautifully designed.
 
 ### 🔹 Education & Certification
 
+- 📘 **Currently reading for MSc in Software Engineering** — University of West London, UK
 - 🎓 MSc in Project Management — Solent University, UK
 - 🏛️ B.Sc in Architecture — University of Moratuwa, Sri Lanka
 - 💻 CMJD Professional Certificate — IJSE
